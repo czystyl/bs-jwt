@@ -1,0 +1,12 @@
+{
+  "name": "bs-jsonwebtoken",
+  "bsc-flags": ["-bs-super-errors"],
+  "sources": [
+    "src",
+    {
+      "dir": "example",
+      "type": "dev"
+    }
+  ],
+  "refmt": 3
+}
